@@ -9,6 +9,6 @@ Projeto acadêmico da Estácio de Sá contendo Referências sobre Big Data
 
   https://medium.com/@siladityaghosh/navigating-big-data-formats-an-in-depth-exploration-a5f8491ba79c
 
-- O que o Big Data pode e o que não pode fazer
+- Time to Consider a New “V” for Big Data: Virtue
 
-  https://medium.com/@tecdom_64412/o-que-o-big-data-pode-e-o-que-n%C3%A3o-pode-fazer-a6f68402add3
+  https://medium.com/@Talend/time-to-consider-a-new-v-for-big-data-virtue-2abe348a95bd
